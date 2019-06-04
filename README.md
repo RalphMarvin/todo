@@ -36,10 +36,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [F
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/sabinbajracharya/fluttery-todo.git
+$ git clone https://github.com/RalphMarvin/todo.git
 
 # Go into the repository
-$ cd fluttery-todo
+$ cd todo
 
 # Install dependencies
 $ flutter packages get
@@ -47,24 +47,4 @@ $ flutter packages get
 # Run the app
 $ flutter run
 ```
-
-## Download
-
-You can [download](https://play.google.com/store/apps/details?id=com.queenstech.todo) the latest installable version of Todo for Android.
-
- <a href="https://play.google.com/store/apps/details?id=com.queenstech.todo"><img src="https://play.google.com/intl/en_us/badges/images/generic/ne_badge_web_generic.png" width="250"></a>
-
-
-
-## Credits
-- [Design Inspiration](https://goo.gl/Y5rd7L)
-
-## License
-
-MIT
-
----
-
-> GitHub [@sabinbajracharya](https://github.com/sabinbajracharya) &nbsp;&middot;&nbsp;
-> Instagram [@er_sabin](https://www.instagram.com/er_sabin/)
 
